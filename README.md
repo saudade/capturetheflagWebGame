@@ -15,6 +15,6 @@ Apart from fixing bugs within the code that cause servers/clients to crash or ga
 
 * Support for webGL. Currently Unity supports webGL, though its much slower than the unity web plugin. However, uLink does not support webGL as of right now. MuchDifferent (the company behind uLink) had stated it will be webGL compatible by August 2015.
 
-* Support for Unity2D upcoming tile system. The current process of creating maps in tagpro-clone requires significant manual actions - creating the maps in Tiled, exporting to Unity, manually attaching scripts, hardcoded spawn values, etc. Parsing of tagpro maps using the upcoming tile system would be one of the main things I would focus on if I had more time.
+* Support for a tile system. The current process of creating maps in tagpro-clone requires significant manual actions - creating the maps in Tiled, exporting to Unity, manually attaching scripts, hardcoded spawn values, etc. Parsing of tagpro maps using the upcoming Unity2D tile system would be one of the main things I would focus on if I had more time.
 
-* Player accessibility, persistent data management, private/public groups, account creation, player statistics, and automated game server initializations. Perhaps would be easiest if tagpro-clone was integrated into the UnityPark Suite.
+* Player accessibility, persistent data management, private/public groups, account creation, player statistics, and automated game server initializations. Perhaps would be "easiest" if tagpro-clone was integrated into the full UnityPark Suite.
