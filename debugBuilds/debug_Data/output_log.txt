@@ -1,0 +1,22 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA GeForce GTX 260M  (ID=0x618)
+    Vendor:   NVIDIA
+    VRAM:     1005 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Batu\Documents\tagprocloneunity\TAGPRO_CLONE\debugTESTING\debug_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Batu\Documents\tagprocloneunity\TAGPRO_CLONE\debugTESTING\debug_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Batu\Documents\tagprocloneunity\TAGPRO_CLONE\debugTESTING\debug_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Batu\Documents\tagprocloneunity\TAGPRO_CLONE\debugTESTING\debug_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Batu\Documents\tagprocloneunity\TAGPRO_CLONE\debugTESTING\debug_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Batu\Documents\tagprocloneunity\TAGPRO_CLONE\debugTESTING\debug_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Batu\Documents\tagprocloneunity\TAGPRO_CLONE\debugTESTING\debug_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Batu\Documents\tagprocloneunity\TAGPRO_CLONE\debugTESTING\debug_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Batu\Documents\tagprocloneunity\TAGPRO_CLONE\debugTESTING\debug_Data\Managed\uLink.dll (this message is harmless)
+Loading C:\Users\Batu\Documents\tagprocloneunity\TAGPRO_CLONE\debugTESTING\debug_Data\Managed\uLink.dll into Unity Child Domain
+- Completed reload, in  0.716 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
