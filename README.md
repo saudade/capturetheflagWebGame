@@ -12,7 +12,7 @@ Mac Client:
 Android Client APK (with on-screen joystick):
 
 Windows Server: 
-(Must have port 52602 open on your router and unblocked by firewall for other players to join. If you don't, no one will be able to see the server or join it apart from LAN.)
+(Must have port 52602 open on your router and unblocked by firewall for other players to join. If you don't, no one will be able to see the server or join it, apart from LAN.)
 
 ## Prerequisites
 1. Download and install the latest version of Unity3d. Get it for free at https://unity3d.com/
