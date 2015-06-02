@@ -24,7 +24,7 @@ Windows Server:
 ## Features/Changes
 * Game Mode: It's real capture the flag. The one where if you pass the middle line and get tagged, you go to jail. The one with a safe zone in the flag area. Here's an image of a modified The Holy See map that better explains how this game mode plays.
 
-*  Powerups: Only rolling bomb and juke juice. Wouldn't really make sense to have tagpro in a real capture the flag game mode. Also, a different mechanism of picking up powerups, if two players are on top of a powerup when it spawns, one player will need to obtain at least 50% of the powerup area to pick it up. If only one player spawns on top of powerup, he will automatically pick it up.
+* Powerups: Only rolling bomb and juke juice. Wouldn't really make sense to have tagpro in a real capture the flag game mode. Also, a different mechanism of picking up powerups, if two players are on top of a powerup when it spawns, one player will need to obtain at least 50% of the powerup area to pick it up. If only one player spawns on top of powerup, he will automatically pick it up.
 
 * Pausing: If a server has pausing enabled (the one I'm hosting does), you can pause the game by pressing F9. A chat message and ping sound will be sent to everyone and three seconds later the game will be paused (no one can move, everything is still.) Anyone can press F9 again to unpause the game. Each player get 3 pauses per game right now.
 
