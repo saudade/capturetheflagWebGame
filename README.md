@@ -4,8 +4,11 @@ An open source recreation of the popular online webgame Tagpro, using Unity, a f
 Play the clone at (Need to be using unity web plugin and a compatible browser)
 
 Windows Client:
+
 Mac Client:
+
 Android Client APK:
+
 
 ## Pre-requisties
 1. Download and install the latest version of Unity3d. Get it for free at https://unity3d.com/
