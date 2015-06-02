@@ -10,7 +10,7 @@ Mac Client:
 Android Client APK:
 
 
-## Pre-requisties
+## Prerequisites
 1. Download and install the latest version of Unity3d. Get it for free at https://unity3d.com/
 2. Download the latest **beta** of uLink and import the unity package when the project is opened with Unity. Get uLink here http://download.muchdifferent.com/ulink/uLink_1.6.0-beta39_Birgit_(2015-03-22).unitypackage (direct link)
 3. Tiled2Unity (Included in project). Tiled2Unity is created by Sean Barton (https://github.com/Seanba/Tiled2Unity) and is used under the MIT license.
