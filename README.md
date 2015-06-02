@@ -1,2 +1,4 @@
 # tagpro-clone
-Recreation of the popular online webgame, Tagpro, using Unity and Ulink.
+A recreation of the popular online webgame, Tagpro, using Unity and Ulink. Play Tagpro at http://www.tagpro.gg/
+
+
