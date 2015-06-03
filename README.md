@@ -1,4 +1,4 @@
-# tagpro-clone
+# Capture the Flag Web Game
 An open source recreation of the popular online webgame Tagpro, using Unity, a free game engine, and uLink, a networking library for Unity. Play Tagpro at http://www.tagpro.gg/
 
 Play the clone at http://saudade.github.io/tagpro-clone/releaseWeb.html (Need to have unity web plugin and be using a compatible browser)
