@@ -1,17 +1,17 @@
 # Capture the Flag Web Game
 An open source recreation of the popular online webgame Tagpro, using Unity, a free game engine, and uLink, a networking library for Unity. Play Tagpro at http://www.tagpro.gg/
 
-Play the clone at http://saudade.github.io/tagpro-clone/releaseWeb.html (Need to have unity web plugin and be using a compatible browser)
+Play the clone at http://saudade.github.io/capturetheflagWebGame/releaseWeb.html (Need to have unity web plugin and be using a compatible browser)
 
 Controls: Arrow keys to move. Hit enter to chat. F or space to honk. F9 to pause game (if server allows clients to pause game). Tab to show/hide network debug information. ESC to show/hide audio icon that when pressed allows you to play/mute in game audio.
 
-Windows Client: https://github.com/saudade/tagpro-clone/releases/download/v0.1.0-windows/windowsTagpro.rar
+Windows Client: https://github.com/saudade/capturetheflagWebGame/releases/download/v0.1.0-windows/windowsTagpro.rar
 
-Mac Client: https://github.com/saudade/tagpro-clone/releases/download/v0.1.0-mac/macTagpro.rar
+Mac Client: https://github.com/saudade/capturetheflagWebGame/releases/download/v0.1.0-mac/macTagpro.rar
 
-Android Client APK (with on-screen joystick): https://github.com/saudade/tagpro-clone/blob/master/debugBuilds/clientAndroidAlpha.apk?raw=true
+Android Client APK (with on-screen joystick): https://github.com/saudade/capturetheflagWebGame/blob/master/debugBuilds/clientAndroidAlpha.apk?raw=true
 
-Windows Server: https://github.com/saudade/tagpro-clone/releases/download/v0.1.0-windows/windowsTagpro.rar
+Windows Server: https://github.com/saudade/capturetheflagWebGame/releases/download/v0.1.0-windows/windowsTagpro.rar
 (Must have port 52602 open on your router and unblocked by firewall for other players to join. If you don't, no one will be able to see the server or join it, apart from LAN.)
 
 ## Prerequisites
@@ -34,13 +34,13 @@ Windows Server: https://github.com/saudade/tagpro-clone/releases/download/v0.1.0
 
 ## Future Ideas
 
-Apart from fixing bugs within the code that cause servers/clients to crash or gameplay to be messed up in some way, I will not be spending more time on tagpro-clone. However, tagpro-clone is still incomplete when compared to Tagpro. Below are some major features that are found in Tagpro but are missing from tagpro-clone.
+Apart from fixing bugs within the code that cause servers/clients to crash or gameplay to be messed up in some way, I will not be spending more time on capturetheflagWebGame. However, capturetheflagWebGame is still incomplete when compared to Tagpro. Below are some major features that are found in Tagpro but are missing from capturetheflagWebGame.
 
 * Support for webGL. Currently Unity supports webGL, though its much slower than the unity web plugin. However, uLink does not support webGL as of right now. MuchDifferent (the company behind uLink) had stated it will be webGL compatible by August 2015.
 
-* Support for a tile system. The current process of creating maps in tagpro-clone requires significant manual actions - creating the maps in Tiled, exporting to Unity, manually attaching scripts, hardcoded spawn values, etc. Parsing of tagpro maps using the upcoming Unity2D tile system would be one of the main things I would focus on if I had more time.
+* Support for a tile system. The current process of creating maps in capturetheflagWebGame requires significant manual actions - creating the maps in Tiled, exporting to Unity, manually attaching scripts, hardcoded spawn values, etc. Parsing of tagpro maps using the upcoming Unity2D tile system would be one of the main things I would focus on if I had more time.
 
-* Player accessibility, persistent data management, private/public groups, account creation, player statistics, and automated game server initializations. Perhaps would be "easiest" if tagpro-clone was integrated into the full UnityPark Suite.
+* Player accessibility, persistent data management, private/public groups, account creation, player statistics, and automated game server initializations. Perhaps would be "easiest" if capturetheflagWebGame was integrated into the full UnityPark Suite.
 
 
 ## License
