@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - redScoreZone
+  - blueScoreZone
+  - redFlag
+  - blueFlag
+  - blueflag
+  - redJail
+  - blueJail
+  - boosts
+  - stars
+  - dividerLine
+  - redFlagCircle
+  - blueFlagCircle
+  - bottomNeturalWalls
+  - topNeturalWalls
+  - topButtons
+  - bottomButtons
+  - server
+  - nameDisplay
+  - jukeJuice
+  - rollingBomb
+  - nameText
+  - timer
+  - owner
+  - redScoreText
+  - blueScoreText
+  - uiBlueFlag
+  - uiRedFlag
+  - boostControl
+  - chat
+  - gameEndText
+  - joystick
+  - gamePausedText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - dividerLayer
+  - redFlagCircleLayer
+  - blueFlagCircleLayer
+  - blueBallLayer
+  - redBallLayer
+  - button
+  - powerups
+  - scopeCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: boosts
+    uniqueID: 1152638999
+    locked: 0
